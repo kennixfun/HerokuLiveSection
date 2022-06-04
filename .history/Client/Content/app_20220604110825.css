@@ -14,8 +14,7 @@ p
     text-align: justify;
 }
 
-div.container
+nav
 {
-    margin-top: 5%;
-    padding-left: 20px;
+    color:rgb(209, 167, 249)
 }
