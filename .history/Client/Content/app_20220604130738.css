@@ -1,19 +1,19 @@
 /* Custom CSS goes here */
-/* Filename: app.css
-   Student's Name: Yuen Ting Leung
-   Student's ID: 301162317
-   Date: Jun 5, 2022
-*/
+.textarea.form-control
+{
+    height: auto;
+}
 
-/* All pages */
 h1
 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
 p
 {
     text-align: justify;
 }
+
 div.container
 {
     margin-top: 5%;
@@ -21,12 +21,7 @@ div.container
     padding-left: 20px;
     padding-bottom: 20px;
 }
+
 img {
     border: 2px solid #555;
   }
-  
-/* Contact page */
-.textarea.form-control
-{
-    height: auto;
-}
